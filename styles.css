@@ -73,7 +73,7 @@ input {
 
 .btn {
     font-size: 20px;
-    color: black;
+    color: rgb(255, 255, 255);
     background-color: rgb(221, 21, 54);
     text-transform: uppercase;
     
